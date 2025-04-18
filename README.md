@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a web developer currently studying Web Development at Turing College.
-I love building tools that make life easier and experimenting with AI-powered projects.
+- I'm a web developer currently studying Web Development at Turing College.
+- I love building tools that make life easier and experimenting with AI-powered projects.
